@@ -1,3 +1,3 @@
-# Vagrant
+0x00-vagrant
 
-This is a project on vagrant and virtual boxes
+This is a project on how to configure vagrant and virtual boxes
